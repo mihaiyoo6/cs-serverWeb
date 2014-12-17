@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mijea Mihai",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.1",
+    "express": "^3.0.0",
+    "request": "^2.51.0",
+    "require": "^2.4.17",
+    "socket.io": "^1.2.1"
+  }
 }
